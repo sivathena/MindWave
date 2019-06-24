@@ -1,1 +1,1 @@
-# MindWave
+# This Project Use Japanese.
