@@ -1,4 +1,4 @@
-�y�ŏ��̊��쐬����� for Windows�zVer.2019/06/25
+【最初の環境作成手引き for Windows】Ver.2019/06/25
 
 Python3.7.3
 
