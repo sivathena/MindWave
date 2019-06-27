@@ -1,0 +1,13 @@
+【最初の環境作成手引き for Windows】Ver.2019/06/25
+
+Python3.7.3
+
+
+VSCode
+	Japanese Langeage Pack 
+	Python
+	PowerShell
+
+
+Git?
+
